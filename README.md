@@ -1,6 +1,6 @@
 # Vaishnavi Jangili - Data Scientist
 
-Welcome to my GitHub portfolio! I am Vaishnavi Jangili, a Data Science enthusiast with a Master's degree in Data Science and over two years of experience in data analysis, statistical modeling, and business insights. This repository is a showcase of my work, skills, and projects.
+Welcome to my portfolio! I am Vaishnavi Jangili, a Data Science enthusiast with a Master's degree in Data Science and over two years of experience in data analysis, statistical modeling, and business insights. This repository is a showcase of my work, skills, and projects.
 
 ## Summary
 
@@ -37,11 +37,14 @@ Outside my professional life, I love going on long walks and experimenting with 
 
 ## Featured Projects
 
-### [Clustering Methods for Identifying NBA Player Archetypes](link to project)
+### [Clustering Methods for Identifying NBA Player Archetypes](https://github.com/vjangili-26/Clustering-methods-for-identifying-NBA-player-archetypes)
 - Implemented clustering techniques (DBSCAN, K-means, Gaussian models) to classify NBA players into archetypes based on performance metrics.
 
-### [Predictive Analytics for Financial Services](link to project)
+### [Predictive Analytics for Financial Services](https://github.com/vjangili-26/Predictive-Analytics-for-Financial-Services-)
 - Used classification models (Random Forest, KNN, SVM, Decision Trees) to predict customer loan eligibility, improving risk assessment for a financial services provider.
+
+### [Used Car Price Prediction](https://github.com/vjangili-26/Use-car-price-prediction)
+- The project aims to build a predictive model using machine learning techniques (multiple linear and non-linear models) in R Studio to estimate used car prices based on various features.
 
 ### [Restaurant P&L Analysis](link to project)
 - Developed a linear regression model for forecasting restaurant sales using SQL and Power BI, providing actionable financial insights across multiple stores.
@@ -52,7 +55,7 @@ Outside my professional life, I love going on long walks and experimenting with 
 - **Six Sigma – Green Belt**
 
 ## Publications
-- **  Vaishnavi J., Tripti S., Rahul B., Rayaleswar M., Surya T., Goutham T., Sahithi B., Praneeth K. – “Husky Voice - An Innovative Voice Assistant”, 2023 MBAA International Conference (Accepted for publication).
+- **  Vaishnavi J., Tripti S., Rahul B., Rayaleswar M., Surya T., Goutham T., Sahithi B., Praneeth K. – [“Husky Voice - An Innovative Voice Assistant”](https://cdn.ymaws.com/mbaainternational.site-ym.com/resource/resmgr/2023_conference/archived_programs/MBAAI_program_2023_with_awar.pdf), 2023 MBAA International Conference (Accepted for publication).
 
 - ## Contact Information
 - **Email:** [vjangili@mtu.edu](mailto:vjangili@mtu.edu)
