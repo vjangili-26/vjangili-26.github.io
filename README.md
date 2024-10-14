@@ -1,12 +1,11 @@
 # Vaishnavi Jangili - Data Scientist
 
-Welcome to my portfolio! I am Vaishnavi Jangili, a Data Science enthusiast with a Master's degree in Data Science and over two years of experience in data analysis, statistical modeling, and business insights. This repository is a showcase of my work, skills, and projects.
+Hello and welcome to my portfolio!
+I'm Vaishnavi Jangili, a passionate Data Scientist with a Master’s in Data Science and over two years of hands-on experience turning complex data into valuable business insights. Through my work in data analysis, statistical modeling, and machine learning, I've helped businesses make informed decisions, optimize performance, and achieve meaningful results.
 
-## Summary
+This space highlights my journey—showcasing the projects I've worked on, the skills I've honed, and the impact I’ve created using tools like Python, SQL, and Power BI.
 
-I am passionate about transforming raw data into actionable insights that enhance operational efficiency and drive business performance. I specialize in using tools like Python, SQL, and Power BI, and have successfully applied data analysis and machine learning techniques to improve business outcomes.
-
-Outside my professional life, I love going on long walks and experimenting with new recipes in the kitchen.
+When I’m not immersed in data, I enjoy exploring the outdoors on long walks and trying out new recipes in the kitchen. Dive in, explore, and feel free to connect!
 
 ## Skills
 - **Programming Languages:** Python, R, SQL, SAS, C, C++, HTML/CSS, XML
@@ -25,15 +24,17 @@ Outside my professional life, I love going on long walks and experimenting with 
 - Provided hands-on instruction using software and IDEs, troubleshooting issues to ensure smooth lab sessions.
 
 ### Data Analyst - Max Healthcare, India (Sept 2021 – May 2022)
-- Analyzed clinical data with Python, R, and SQL, leading to a 15% improvement in business insight accuracy.
-- Ensured seamless healthcare data integration with EHR systems and APIs, improving data exchange efficiency.
+- Interpreted raw data using various tools (Python, R, and Excel Data Analysis Toolpak), and statistical models (including regression techniques, decision trees, etc.), which led to a 15% improvement in business insight accuracy.
+- Gathered Business Requirements, and interacted with Users and SMEs to get a better understanding of the data.
+- Presented interactive dashboards using Power BI, Tableau, and Excel to deliver analytical insights and visualizations to clients, facilitating informed decision-making processes.
+- Collaborated with cross-functional teams using project management tools like Jira to track and manage tasks, ensuring timely delivery of analytical solutions and adherence to project timelines.
 
 ### Data Science Intern - GR Associates, India (Sept 2020 – May 2021)
-- Analyzed supplier material inspection data, leading to a 20% increase in material quality.
-- Reduced analysis time by 30% through visualizations of quality issues.
+- Analyzed the data collected from inspections of materials received from suppliers, created statistical reports that identified a 20% increase in material quality, and pinpointed common nonconformities.
+- Developed data visualizations to illustrate the frequency and impact of specific quality issues that reduced analysis time by 30%, helping to prioritize corrective actions.
 
 ### Data Analyst Intern - Stepsworth, India (May 2020 – Jul 2020)
-- Developed a recommendation system, improving client satisfaction by 30%, using Python and sci-kit-learn.
+- Assisted in creating a recommendation system that increased client satisfaction by 30% through tailored property suggestions, leveraging thorough data collection, preprocessing, and model training with Python and sci-kit-learn, as measured by post-implementation surveys and feedback.
 
 ## Featured Projects
 
