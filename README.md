@@ -1,18 +1,37 @@
 
-I'm Vaishnavi Jangili, an aspiring Data Scientist with a Master’s in Data Science and over two years of hands-on experience turning complex data into valuable business insights. Through my work in data analysis, statistical modeling, and machine learning, I've helped businesses make informed decisions, optimize performance, and achieve meaningful results.
+## Data Science Enthusiast: Transforming Data Into Actionable Insights
+I’m Vaishnavi Jangili, a passionate Data Scientist with a Master’s in Data Science from Michigan Tech and over two years of experience turning raw data into valuable insights. My work spans data analysis, statistical modeling, and machine learning, where I’ve helped businesses optimize performance and achieve measurable outcomes.
 
-This space highlights my journey—showcasing the projects I've worked on, the skills I've honed, and the impact I’ve created using tools like Python, SQL, and Power BI.
+I thrive on blending technical expertise with strategic thinking to solve complex problems. My experience across industries has shaped my adaptability, allowing me to apply data science to a variety of challenges.
 
-When I’m not immersed in data, I enjoy exploring the outdoors on long walks and trying out new recipes in the kitchen. Dive in, explore, and feel free to connect!
+**What Drives Me:**
+
+-Using data to improve business efficiency and decision-making.
+-Leveraging advanced analytics to solve real-world problems.
+-Continuously learning and applying emerging technologies.
+
+**Core Competencies:**
+
+Data Analysis & Visualization
+Machine Learning & Predictive Modeling
+Data-Driven Decision Making
+Business Intelligence Tools
+
+Outside of my professional life, I draw inspiration from visionary leaders like Ratan Tata and APJ Abdul Kalam. Their life stories fuel my dream of pursuing an MBA, which I see as the next step in broadening my expertise at the intersection of technology and business.
+
+I’m always excited to connect with fellow professionals and explore new opportunities. Let’s collaborate and drive innovation together!
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vjangili@mtu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-jangili)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vjangili-26)
 
 ## Skills
 - **Programming Languages:** Python, R, SQL, SAS, C, C++, HTML/CSS, XML
 - **Tools & Software:** Jupyter, PowerBI, Tableau, Alteryx, SSMS, SSIS, JIRA, Microsoft Office
 
 ## Education
-- **Master of Science (MS) in Data Science**  
+- **Master of Science (MS) in Data Science**  April 2024
   Michigan Technological University, Houghton, MI
-- **Bachelor of Technology (B.Tech) in Computer Science**  
+- **Bachelor of Technology (B.Tech) in Computer Science**  July 2022
   Jawaharlal Nehru Technological University, India
 
 ## Work Experience
@@ -55,12 +74,4 @@ When I’m not immersed in data, I enjoy exploring the outdoors on long walks an
 
 ## Publications
 - Vaishnavi J., Tripti S., Rahul B., Rayaleswar M., Surya T., Goutham T., Sahithi B., Praneeth K. – [“Husky Voice - An Innovative Voice Assistant”](https://cdn.ymaws.com/mbaainternational.site-ym.com/resource/resmgr/2023_conference/archived_programs/MBAAI_program_2023_with_awar.pdf), 2023 MBAA International Conference (Accepted for publication).
-
-## Connect with me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vjangili@mtu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-jangili)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vjangili-26)
-
-I’m always eager to connect with like-minded professionals and explore opportunities to make a meaningful impact through data science. Let’s connect and explore how we can drive innovation together!
 
