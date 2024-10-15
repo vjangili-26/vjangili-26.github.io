@@ -50,7 +50,7 @@ When I’m not immersed in data, I enjoy exploring the outdoors on long walks an
 - Developed a linear regression model for forecasting restaurant sales using SQL and Power BI, providing actionable financial insights across multiple stores.
 
 ## Certifications
-- AWS Certified Cloud Practitioner (CLF-C02)
+- [AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/2ad23967-ccbb-4369-b0d0-77347afb1510/public_url)
 - Graduate Certificates: Applied Statistics, Data Science Foundations
 - Six Sigma – Green Belt
 
@@ -59,9 +59,9 @@ When I’m not immersed in data, I enjoy exploring the outdoors on long walks an
 
 ## Connect with me
 
-- **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vjangili@mtu.edu)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-jangili)
-- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vjangili-26)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vjangili@mtu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-jangili)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vjangili-26)
 
 I’m always eager to connect with like-minded professionals and explore opportunities to make a meaningful impact through data science. Let’s connect and explore how we can drive innovation together!
 
