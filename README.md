@@ -47,18 +47,18 @@ When I’m not immersed in data, I enjoy exploring the outdoors on long walks an
 ### [Used Car Price Prediction](https://github.com/vjangili-26/Use-car-price-prediction)
 - The project aims to build a predictive model using machine learning techniques (multiple linear and non-linear models) in R Studio to estimate used car prices based on various features.
 
-### [Restaurant P&L Analysis](link to project)
+### Restaurant P&L Analysis
 - Developed a linear regression model for forecasting restaurant sales using SQL and Power BI, providing actionable financial insights across multiple stores.
 
 ## Certifications
-- **AWS Certified Cloud Practitioner (CLF-C02)**
-- **Graduate Certificates:** Applied Statistics, Data Science Foundations
-- **Six Sigma – Green Belt**
+- AWS Certified Cloud Practitioner (CLF-C02)
+- Graduate Certificates: Applied Statistics, Data Science Foundations
+- Six Sigma – Green Belt
 
 ## Publications
-- **  Vaishnavi J., Tripti S., Rahul B., Rayaleswar M., Surya T., Goutham T., Sahithi B., Praneeth K. – [“Husky Voice - An Innovative Voice Assistant”](https://cdn.ymaws.com/mbaainternational.site-ym.com/resource/resmgr/2023_conference/archived_programs/MBAAI_program_2023_with_awar.pdf), 2023 MBAA International Conference (Accepted for publication).
+- Vaishnavi J., Tripti S., Rahul B., Rayaleswar M., Surya T., Goutham T., Sahithi B., Praneeth K. – [“Husky Voice - An Innovative Voice Assistant”](https://cdn.ymaws.com/mbaainternational.site-ym.com/resource/resmgr/2023_conference/archived_programs/MBAAI_program_2023_with_awar.pdf), 2023 MBAA International Conference (Accepted for publication).
 
-- ## Contact Information
+## Contact Information
 - **Email:** [vjangili@mtu.edu](mailto:vjangili@mtu.edu)
 - **LinkedIn:** [linkedin.com/in/vaishnavi-jangili](https://linkedin.com/in/vaishnavi-jangili)
 - **GitHub:** [github.com/vjangili-26](https://github.com/vjangili-26)
