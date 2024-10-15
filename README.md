@@ -1,5 +1,3 @@
-# Hello and welcome to my portfolio!
-
 
 I'm Vaishnavi Jangili, a passionate Data Scientist with a Master’s in Data Science and over two years of hands-on experience turning complex data into valuable business insights. Through my work in data analysis, statistical modeling, and machine learning, I've helped businesses make informed decisions, optimize performance, and achieve meaningful results.
 
