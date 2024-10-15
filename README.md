@@ -1,25 +1,25 @@
 
-## Data Science Enthusiast: Transforming Data Into Actionable Insights
 I’m Vaishnavi Jangili, a passionate Data Scientist with a Master’s in Data Science from Michigan Tech and over two years of experience turning raw data into valuable insights. My work spans data analysis, statistical modeling, and machine learning, where I’ve helped businesses optimize performance and achieve measurable outcomes.
 
 I thrive on blending technical expertise with strategic thinking to solve complex problems. My experience across industries has shaped my adaptability, allowing me to apply data science to a variety of challenges.
 
 **What Drives Me:**
 
--Using data to improve business efficiency and decision-making.
--Leveraging advanced analytics to solve real-world problems.
--Continuously learning and applying emerging technologies.
+- Using data to improve business efficiency and decision-making.
+- Leveraging advanced analytics to solve real-world problems.
+- Continuously learning and applying emerging technologies.
 
 **Core Competencies:**
 
--Data Analysis & Visualization
--Machine Learning & Predictive Modeling
--Data-Driven Decision Making
--Business Intelligence Tools
+- Data Analysis & Visualization
+- Machine Learning & Predictive Modeling
+- Data-Driven Decision Making
+- Business Intelligence Tools
 
 Outside of my professional life, I draw inspiration from visionary leaders like Ratan Tata and APJ Abdul Kalam. Their life stories fuel my dream of pursuing an MBA, which I see as the next step in broadening my expertise at the intersection of technology and business.
 
 I’m always excited to connect with fellow professionals and explore new opportunities. Let’s collaborate and drive innovation together!
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vjangili@mtu.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-jangili)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vjangili-26)
