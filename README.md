@@ -1,5 +1,5 @@
 
-I’m Vaishnavi Jangili, a passionate Data Scientist with a Master’s in Data Science from Michigan Tech and over two years of experience turning raw data into valuable insights. My work spans data analysis, statistical modeling, and machine learning, where I’ve helped businesses optimize performance and achieve measurable outcomes.
+I’m Vaishnavi Jangili, an aspiring Data Scientist with a Master’s in Data Science from Michigan Tech and over two years of experience turning raw data into valuable insights. My work spans data analysis, statistical modeling, and machine learning, where I’ve helped businesses optimize performance and achieve measurable outcomes.
 
 I thrive on blending technical expertise with strategic thinking to solve complex problems. My experience across industries has shaped my adaptability, allowing me to apply data science to a variety of challenges.
 
@@ -29,9 +29,9 @@ I’m always excited to connect with fellow professionals and explore new opport
 - **Tools & Software:** Jupyter, PowerBI, Tableau, Alteryx, SSMS, SSIS, JIRA, Microsoft Office
 
 ## Education
-- **Master of Science (MS) in Data Science**  April 2024
+- **Master of Science (MS) in Data Science** 
   Michigan Technological University, Houghton, MI
-- **Bachelor of Technology (B.Tech) in Computer Science**  July 2022
+- **Bachelor of Technology (B.Tech) in Computer Science** 
   Jawaharlal Nehru Technological University, India
 
 ## Work Experience
