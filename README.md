@@ -29,9 +29,11 @@ I’m always excited to connect with fellow professionals and explore new opport
 - **Tools & Software:** Jupyter, PowerBI, Tableau, Alteryx, SSMS, SSIS, JIRA, Microsoft Office
 
 ## Education
-- **Master of Science (MS) in Data Science** 
+- **Master of Science (MS) in Data Science**
+
   Michigan Technological University, Houghton, MI
-- **Bachelor of Technology (B.Tech) in Computer Science** 
+- **Bachelor of Technology (B.Tech) in Computer Science**
+  
   Jawaharlal Nehru Technological University, India
 
 ## Work Experience
