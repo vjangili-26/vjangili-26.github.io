@@ -1,6 +1,5 @@
-# Vaishnavi Jangili - Data Scientist
+# Hello and welcome to my portfolio!
 
-Hello and welcome to my portfolio!
 I'm Vaishnavi Jangili, a passionate Data Scientist with a Master’s in Data Science and over two years of hands-on experience turning complex data into valuable business insights. Through my work in data analysis, statistical modeling, and machine learning, I've helped businesses make informed decisions, optimize performance, and achieve meaningful results.
 
 This space highlights my journey—showcasing the projects I've worked on, the skills I've honed, and the impact I’ve created using tools like Python, SQL, and Power BI.
@@ -9,7 +8,7 @@ When I’m not immersed in data, I enjoy exploring the outdoors on long walks an
 
 ## Skills
 - **Programming Languages:** Python, R, SQL, SAS, C, C++, HTML/CSS, XML
-- **Tools & Software:** Jupyter, PowerBI, Tableau, Alteryx, SSMS, SSIS, JIRA, Microsoft Office (Word, Excel, PowerPoint)
+- **Tools & Software:** Jupyter, PowerBI, Tableau, Alteryx, SSMS, SSIS, JIRA, Microsoft Office
 
 ## Education
 - **Master of Science (MS) in Data Science**  
@@ -58,15 +57,11 @@ When I’m not immersed in data, I enjoy exploring the outdoors on long walks an
 ## Publications
 - Vaishnavi J., Tripti S., Rahul B., Rayaleswar M., Surya T., Goutham T., Sahithi B., Praneeth K. – [“Husky Voice - An Innovative Voice Assistant”](https://cdn.ymaws.com/mbaainternational.site-ym.com/resource/resmgr/2023_conference/archived_programs/MBAAI_program_2023_with_awar.pdf), 2023 MBAA International Conference (Accepted for publication).
 
-## Contact Information
-- **Email:** [vjangili@mtu.edu](mailto:vjangili@mtu.edu)
-- **LinkedIn:** [linkedin.com/in/vaishnavi-jangili](https://linkedin.com/in/vaishnavi-jangili)
-- **GitHub:** [github.com/vjangili-26](https://github.com/vjangili-26)
+## Connect with me
 
-## How to Use This Repository
-- Browse through my projects to see detailed implementations of data science techniques.
-- Check out my featured projects for end-to-end examples of my work in data analysis, machine learning, and visualization.
-- Feel free to reach out via [email](mailto:vjangili@mtu.edu) or connect with me on [LinkedIn](https://linkedin.com/in/vaishnavi-jangili) for any collaborations or inquiries.
+- **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vjangili@mtu.edu)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnavi-jangili)
+- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vjangili-26)
 
-
+I’m always eager to connect with like-minded professionals and explore opportunities to make a meaningful impact through data science. Let’s connect and explore how we can drive innovation together!
 
