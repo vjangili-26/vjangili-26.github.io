@@ -12,10 +12,10 @@ I thrive on blending technical expertise with strategic thinking to solve comple
 
 **Core Competencies:**
 
-Data Analysis & Visualization
-Machine Learning & Predictive Modeling
-Data-Driven Decision Making
-Business Intelligence Tools
+-Data Analysis & Visualization
+-Machine Learning & Predictive Modeling
+-Data-Driven Decision Making
+-Business Intelligence Tools
 
 Outside of my professional life, I draw inspiration from visionary leaders like Ratan Tata and APJ Abdul Kalam. Their life stories fuel my dream of pursuing an MBA, which I see as the next step in broadening my expertise at the intersection of technology and business.
 
